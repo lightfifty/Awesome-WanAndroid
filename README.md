@@ -1,7 +1,7 @@
 <h1 align="center">Awesome-WanAndroid</h1>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Version-V1.2.4-brightgreen.svg">
+<img src="https://img.shields.io/badge/Version-V1.2.5-brightgreen.svg">
 <img src="https://img.shields.io/badge/build-passing-brightgreen.svg">
 <a href="https://developer.android.com/about/versions/android-5.0.html">
     <img src="https://img.shields.io/badge/API-21+-blue.svg" alt="Min Sdk Version">
@@ -16,7 +16,9 @@
 <img src="https://diycode.b0.upaiyun.com/user/avatar/2468.jpg">
 </div>
 
-### 致力于打造一款极致体验的WanAndroid客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n ，更好的 Awesome-WanAndroid V1.2.4正式版发布，相比初始版本，项目的稳定性和界面的美化程度已提升了几个档次，如果您觉得还不错的话，就点个Star吧~(持续打磨中~，敬请关注)
+### 致力于打造一款极致体验的WanAndroid客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n ，更好的 Awesome-WanAndroid V1.2.5正式版发布，相比初始版本，项目的稳定性和界面的美化程度已提升了几个档次，如果您觉得还不错的话，就点个Star吧~(持续打磨中~，敬请关注)
+
+### 本项目采用的性能优化技术全部来自于[Awesome-Android-Performance](https://github.com/JsonChao/Awesome-Android-Performance)
 
 ## Introduction
 
@@ -89,7 +91,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 </div>
 
 
-## Apk download（Android 5.0 or above it）（更好的Awesome-WanAndroid V1.2.4 来了）
+## Apk download（Android 5.0 or above it）（更好的Awesome-WanAndroid V1.2.5 来了）
 
 <center>
 
@@ -130,7 +132,14 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 ## Version
 
-### :zap:v1.2.4
+### :zap:v1.2.5
+
+1、将请求url的scheme字段全局替换为https
+
+2、解决issue上存在的bug
+
+
+### v1.2.4
 
 1.新增公众号栏目，支持公众号内搜索
 
@@ -300,7 +309,40 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 [Lottie-android](https://github.com/airbnb/lottie-android)
 
-### 还有上面没列举的一些优秀的第三方开源库，感谢开源，愿我们一同成长
+### 还有上面没列举的一些优秀的第三方开源库，感谢开源，愿我们一同成长~
+
+
+## 赞赏
+
+如果这个库对您有很大帮助，您愿意支持这个项目的进一步开发和这个项目的持续维护。你可以扫描下面的二维码，让我喝一杯咖啡或啤酒。非常感谢您的捐赠。谢谢！
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Interview/master/screenshot/wexin_play.jpg" width=20%><img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Interview/master/screenshot/Apaliy.jpg" width=20%>
+</div>
+
+
+----
+
+## Contanct Me
+
+###  ●  微信：
+
+> 欢迎关注我的微信：`bcce5360`  
+
+###  ●  微信群：
+
+> **微信群如果不能扫码加入，麻烦大家想进微信群的朋友们，加我微信拉你进群。**
+
+<div align="center">
+<img src="https://github.com/JsonChao/Awesome-Android-Performance/blob/master/screenshots/Awesome-Android.png" width=35%>
+</div>
+        
+
+###  ●  QQ群：
+
+> 2千人QQ群，**Awesome-Android学习交流群，QQ群号：959936182**， 欢迎大家加入~
+
+
 
 ### About me
 
